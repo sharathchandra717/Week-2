@@ -29,3 +29,4 @@ promise.then(function(result) {
   console.log(err); // Error: "It broke"
 });
 ```
+> The main advantage of promises is callback hell can be avoided
